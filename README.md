@@ -14,3 +14,6 @@ Tools Used: SQL, SSMS, Tableau Public (Desktop Version)
 
 Datalemur: https://datalemur.com/sql-tutorial/instacart-sql-data-analytics-case-study
 Tableau Dashboard: https://public.tableau.com/app/profile/arunita.sarkar3768/vizzes (Instacart Market Basket Analysis)
+
+
+![Instacart Dashboard](https://github.com/ASarkar0611/Instacart-Market-Basket-Analysis/assets/114884556/adba3f98-fbf6-4584-94cf-5690d020caa8)
